@@ -16,7 +16,12 @@ body{
 
 }
 
+.cabecalho-menu-listaitem{
 
+    display: inline;
+    text-transform: uppercase;
+    margin: 30px;
+}
 
 
 
